@@ -20,7 +20,7 @@ chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--disable-dev-shm-usage')
 chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
 driver = webdriver.Chrome(options=chrome_options)
-buy_count = 0
+buy_count = 1
 
 
 def cls():
