@@ -1,7 +1,7 @@
 from functions import *
 from config import load_config
 
-# Login page loader
+# Login page load
 cls()
 driver.get("https://steamcommunity.com/login/home/?goto=market%2Flistings%2F730")
 
