@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 class PageLocators(object):
     """ID"""
-    CHECK_BOX = (By.ID, "marke_buynow_dialog_accept_ssa")
+    CHECK_BOX = (By.ID, "market_buynow_dialog_accept_ssa")
     BUY_BUTTON = (By.ID, "market_buynow_dialog_purchase")
     CLOSE_BUTTON = (By.ID, "market_buynow_dialog_close")
     USER_BALANCE = (By.ID, "header_wallet_balance")
