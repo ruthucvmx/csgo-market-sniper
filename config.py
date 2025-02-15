@@ -11,7 +11,7 @@ def load_config():
     # Access the products list and loop over each product
     for idx, skin in enumerate(config['skins']):
         # Access the URL and its parameters for each product
-        url_info[idx][0] = skin['float']
+        url_info[idx][0] = skin['floate']
         url_info[idx][1] = skin['pattern']
         url_info[idx][2] = skin['number_of_stickers']
         url_info[idx][3] = skin['price']
