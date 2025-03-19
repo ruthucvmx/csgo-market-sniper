@@ -1,4 +1,4 @@
-# CS:GO Market sniper
+# CS:GO 2 Market sniper
 ***
 ![alt text](https://img.shields.io/github/last-commit/ruthucvmx/csgo-market-sniper?style=for-the-badge) ![alt text](https://img.shields.io/github/commit-activity/m/ruthucvmx/csgo-market-sniper?style=for-the-badge) ![alt text](https://img.shields.io/github/languages/top/ruthucvmx/csgo-market-sniper?style=for-the-badge)
 ***
