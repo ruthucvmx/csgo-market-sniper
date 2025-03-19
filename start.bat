@@ -63,7 +63,7 @@ REM ----------------------------------------------------------------------------
 REM RUN THE MAIN PYTHON SCRIPT
 REM --------------------------------------------------------------------------------
 cls
-"!python!" main.py
+"!python!" csgo-market-sniper.py
 
 if errorlevel 1 (
     cls
